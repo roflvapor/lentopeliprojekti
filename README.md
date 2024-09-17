@@ -2,10 +2,6 @@
 
 Tavoitteenanne on rakentaa **toiminnallinen prototyyppi pelistä**.
 
-![Sähkölentokone](img/Pipistrel_WATTsUP_airplane.jpg)
-
-<sub><sup>Pipistrel WATTsUP -sähkölentokoneen kuva: Ymmo, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons</sup></sub>
-
 
 Pelin prototyyppi on peli, jonka
 avulla käyttäjä voi matkustaa joko koko maailmassa tai sallimallanne alueella. Peli hyödyntää
